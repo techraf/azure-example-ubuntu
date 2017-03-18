@@ -1,5 +1,9 @@
 ---
 - hosts: terra02vm
 
+  roles:
+    - role: Stouts.openvpn
+      become: yes
+
   tasks:
     - debug:
