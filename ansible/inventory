@@ -1,0 +1,2 @@
+[terra02vm]
+terra02vm.southcentralus.cloudapp.azure.com ansible_user=terrabuntu
